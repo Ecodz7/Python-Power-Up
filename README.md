@@ -6,7 +6,7 @@ Criação de Bot para Automatização de Tarefas utilizando Python. Bot Creation
 - Criação de Bots
 - Economizar tempo e trazer eficiência
 - RPA e Web-Scraping
-  
+___________________________________________________________________________
 - Task Automation
 - Bot Creation
 - Save time and bring efficiency
@@ -18,7 +18,7 @@ Criação de Bot para Automatização de Tarefas utilizando Python. Bot Creation
 - Importar a biblioteca pandas para leitura do banco de dados = import pandas as pd
 - Importar a funcionalidade "time" = import time
 - Utilizar o navegador com algum usuário
-
+_____________________________________________________________________________________________________________
 - Install pyautogui in the Virtual Studio Code terminal = pip install pyautogui
 - Import pyautogui into your project = import pyautogui as pa
 - Import the pandas library to read from the database = import pandas as pd
