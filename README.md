@@ -3,7 +3,7 @@ Criação de Bot para Automatização de Tarefas utilizando Python.
 ___________________________________________________________________________
 Bot Creation for Task Automation using Python.
 
-# Funcionalidades e proeficiências | Features and proficiencies
+# Funcionalidades e proficiências | Features and proficiencies
 - Automação de Tarefas
 - Criação de Bots
 - Economizar tempo e trazer eficiência
